@@ -1,4 +1,4 @@
 # Awesome Log-based Anomaly Detection
-A list of Papers on anomaly detection.
+A list of Papers on log-based anomaly detection. Papers of time series anomaly detection are shown in another repo[https://github.com/zhuyiche/awesome-anomaly-detection/].
 You are welcome to open an issue and pull your requests if you think any paper that is important but not are inclueded in this repo.
 The papers are orgnized in classical method, deep learning method, application and survey. 
