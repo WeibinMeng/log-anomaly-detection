@@ -24,7 +24,7 @@ Papers of time series anomaly detection are shown in another [repo](https://gith
 - [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf) - CCS 2017
 - [Log Clustering Based Problem Identification for Online Service Systems](https://netman.aiops.org/~peidan/ANM2018/9.LogAnomalyDetection/LectureCoverage/2016ICSE_Log%20Clustering%20based%20Problem%20Identification%20for%20Online%20Service%20Systems%20.pdf) -ICSE 2016
 - [Mining Invariants from Logs for System Problem Detection](https://www.usenix.org/legacy/event/atc10/tech/slides/lou.pdf) - USENIX 2010
-
+- [Detecting Large-Scale System Problems by Mining Console Logs](https://icml.cc/Conferences/2010/papers/902.pdf) -SOSP 2009
 
 
 ## log monitoring
