@@ -28,4 +28,4 @@ Papers of time series anomaly detection are shown in another [repo](https://gith
 
 
 ## log monitoring
-
+- [Experience Report: System Log Analysis for Anomaly Detection](https://netman.aiops.org/~peidan/ANM2018Fall/6.LogAnomalyDetection/LectureCoverage/2016ISSRE_System%20Log%20Analysis%20for%20Anomaly%20Detection.pdf) -ISSRE 2016
