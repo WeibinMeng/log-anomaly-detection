@@ -19,6 +19,7 @@ Papers of time series anomaly detection are shown in another [repo](https://gith
 
 
 ## anomaly detection
+- [Semi-supervised Log-based Anomaly Detection via Probabilistic Label Estimation](https://ieeexplore.ieee.org/abstract/document/9401970) -ICSE 2021
 - [Loganomaly: Unsupervised detection of sequential and quantitative anomalies in unstructured logs](https://netman.aiops.org/wp-content/uploads/2019/07/LogAnomaly.pdf) -IJCAI 2019
 - [Robust log-based anomaly detection on unstable log data](https://netman.aiops.org/~peidan/ANM2020/6.LogAnomalyDetection/LectureCoverage/2019FSE_LogRobust.pdf) - FSE 2019
 - [Prefix: Switch failure prediction in datacenter networks](https://dl.acm.org/doi/abs/10.1145/3179405) -SIGMETRICS 2018
