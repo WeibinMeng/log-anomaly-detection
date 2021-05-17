@@ -5,7 +5,11 @@ The papers are orgnized in log parsing (previous step of anomaly detection),  an
 
 
 ## log parsing
-- [Tools and Benchmarks for Automated Log Parsing.](https://arxiv.org/pdf/1811.03509.pdf) -ICSE 2019.
+- [Logparse: Making log parsing adaptive through word classification](http://nkcs.iops.ai/wp-content/uploads/2020/05/paper-ICCCN20-LogParse.pdf) -ICCCN 2020
+- [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf) -ICSE 2019
+- [Spell: Online Streaming Parsing of Large Unstructured System Logs](https://ieeexplore.ieee.org/abstract/document/8489912) -TKDE 2018
+- [Towards Automated Log Parsing for Large-Scale Log Data Analysis](https://ieeexplore.ieee.org/document/8067504) -TDSC 2018
+- [Syslog processing for switch failure diagnosis and prediction in datacenter networks](https://netman.aiops.org/~peidan/ANM2020/6.LogAnomalyDetection/LectureCoverage/2017IWQOS_FT-Tree.pdf) -IWQoS 2017
 
 
 
