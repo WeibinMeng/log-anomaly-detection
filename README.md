@@ -7,6 +7,7 @@ Papers of time series anomaly detection are shown in another [repo](https://gith
 
 ## log parsing
 - [Logparse: Making log parsing adaptive through word classification](http://nkcs.iops.ai/wp-content/uploads/2020/05/paper-ICCCN20-LogParse.pdf) -ICCCN 2020
+- [Logram: Efficient Log Parsing Using n-Gram Dictionaries](https://arxiv.org/pdf/2001.03038.pdf) -TSE 2020
 - [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf) -ICSE 2019
 - [Spell: Online Streaming Parsing of Large Unstructured System Logs](https://ieeexplore.ieee.org/abstract/document/8489912) -TKDE 2018
 - [Towards Automated Log Parsing for Large-Scale Log Data Analysis](https://ieeexplore.ieee.org/document/8067504) -TDSC 2018
