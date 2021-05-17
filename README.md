@@ -10,6 +10,7 @@ Papers of time series anomaly detection are shown in another [repo](https://gith
 - [Tools and Benchmarks for Automated Log Parsing](https://arxiv.org/pdf/1811.03509.pdf) -ICSE 2019
 - [Spell: Online Streaming Parsing of Large Unstructured System Logs](https://ieeexplore.ieee.org/abstract/document/8489912) -TKDE 2018
 - [Towards Automated Log Parsing for Large-Scale Log Data Analysis](https://ieeexplore.ieee.org/document/8067504) -TDSC 2018
+- [Drain: An Online Log Parsing Approach with Fixed Depth Tree](https://ieeexplore.ieee.org/abstract/document/8029742) -ICWS 2017
 - [Syslog processing for switch failure diagnosis and prediction in datacenter networks](https://netman.aiops.org/~peidan/ANM2020/6.LogAnomalyDetection/LectureCoverage/2017IWQOS_FT-Tree.pdf) -IWQoS 2017
 
 
@@ -21,6 +22,7 @@ Papers of time series anomaly detection are shown in another [repo](https://gith
 - [Robust log-based anomaly detection on unstable log data](https://netman.aiops.org/~peidan/ANM2020/6.LogAnomalyDetection/LectureCoverage/2019FSE_LogRobust.pdf) - FSE 2019
 - [Prefix: Switch failure prediction in datacenter networks](https://dl.acm.org/doi/abs/10.1145/3179405) -SIGMETRICS 2018
 - [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf) - CCS 2017
+- [Log Clustering Based Problem Identification for Online Service Systems](https://netman.aiops.org/~peidan/ANM2018/9.LogAnomalyDetection/LectureCoverage/2016ICSE_Log%20Clustering%20based%20Problem%20Identification%20for%20Online%20Service%20Systems%20.pdf) -ICSE 2016
 - [Mining Invariants from Logs for System Problem Detection](https://www.usenix.org/legacy/event/atc10/tech/slides/lou.pdf) - USENIX 2010
 
 
